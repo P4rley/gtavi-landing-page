@@ -6,13 +6,13 @@ const ComingSoon = () => {
 
         <div className="text-wrapper">
           <h3 className="gradient-title">
-            Coming <br /> May 26 <br /> 2026
+            Coming <br /> May 26th <br /> 2026
           </h3>
         </div>
 
         <div className="flex-center gap-10">
-          <img src="/images/ps-logo.svg" className="md:w-32 w-20" alt="" />
-          <img src="/images/x-logo.svg" className="md:w-52 w-40" alt="" />
+          <img src="/images/ps-logo.svg" className="md:w-32 w-20" />
+          <img src="/images/x-logo.svg" className="md:w-52 w-40" />
         </div>
       </div>
     </section>
